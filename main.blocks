@@ -1,0 +1,6 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables></variables>
+  <block type="pxt-on-start"></block>
+  <block type="minecraft_system_onGameTick"></block>
+  <block type="minecraft_player_onPlayerSpawn"><value name="HANDLER_DRAG_PARAM_player"><block type="argument_reporter_custom"><mutation duplicateondrag="true" typename="Player"></mutation><field name="VALUE">player</field></block>
+</xml>
